@@ -3,6 +3,8 @@ wechat
 
 微信公共平台自动回复消息接口服务中间件
 
+>fork过来只是为了获得原始的xml，`req.raw_xml = xml;`
+
 [Wechat document in English](./README.en.md)
 
 ## 模块状态
